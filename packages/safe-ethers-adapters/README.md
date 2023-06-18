@@ -30,8 +30,8 @@ It may be obtained with:
 
 ```js
 import { ethers } from "ethers"
-import Safe from "@safe-global/safe-core-sdk"
-import EthersAdapter from "@safe-global/safe-ethers-lib"
+import Safe from "@pnsdomains/safe-core-sdk"
+import EthersAdapter from "@pnsdomains/safe-ethers-lib"
 
 const safe = await Safe.create({
   ethAdapter: new EthersAdapter({ ethers, signerOrProvider }),

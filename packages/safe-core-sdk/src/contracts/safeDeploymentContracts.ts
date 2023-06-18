@@ -9,7 +9,7 @@ import {
   getSafeSingletonDeployment,
   getSignMessageLibDeployment,
   SingletonDeployment
-} from '@safe-global/safe-deployments'
+} from '@pnsdomains/safe-deployments'
 import {
   CompatibilityFallbackHandlerContract,
   CreateCallContract,
@@ -20,7 +20,7 @@ import {
   MultiSendContract,
   SafeVersion,
   SignMessageLibContract
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import { ContractNetworkConfig } from '../types'
 import { safeDeploymentsL1ChainIds, safeDeploymentsVersions } from './config'
 

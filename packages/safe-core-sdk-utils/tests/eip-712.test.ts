@@ -1,4 +1,4 @@
-import { SafeTransactionData } from '@safe-global/safe-core-sdk-types'
+import { SafeTransactionData } from '@pnsdomains/safe-core-sdk-types'
 import chai from 'chai'
 import {
   EIP712_DOMAIN,

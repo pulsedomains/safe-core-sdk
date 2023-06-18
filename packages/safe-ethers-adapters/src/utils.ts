@@ -1,8 +1,8 @@
 import { Interface } from '@ethersproject/abi'
 import { TransactionReceipt } from '@ethersproject/abstract-provider'
 import { getAddress } from '@ethersproject/address'
-import { getCreateCallDeployment } from '@safe-global/safe-deployments'
-import { SafeTransactionData } from '@safe-global/safe-core-sdk-types'
+import { getCreateCallDeployment } from '@pnsdomains/safe-deployments'
+import { SafeTransactionData } from '@pnsdomains/safe-core-sdk-types'
 
 export const createLibDeployment = getCreateCallDeployment()
 export const createLibAddress = createLibDeployment!!.defaultAddress

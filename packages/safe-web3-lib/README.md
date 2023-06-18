@@ -37,7 +37,7 @@ If the app integrating the SDK is using `Web3`, create an instance of the `Web3A
 
 ```js
 import Web3 from 'web3'
-import Web3Adapter from '@safe-global/safe-web3-lib'
+import Web3Adapter from '@pnsdomains/safe-web3-lib'
 
 const provider = new Web3.providers.HttpProvider('http://localhost:8545')
 const web3 = new Web3(provider)

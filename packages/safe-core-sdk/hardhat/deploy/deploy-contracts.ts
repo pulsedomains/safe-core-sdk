@@ -1,4 +1,4 @@
-import { SafeVersion } from '@safe-global/safe-core-sdk-types'
+import { SafeVersion } from '@pnsdomains/safe-core-sdk-types'
 import { DeployFunction } from 'hardhat-deploy/types'
 import { HardhatRuntimeEnvironment } from 'hardhat/types'
 

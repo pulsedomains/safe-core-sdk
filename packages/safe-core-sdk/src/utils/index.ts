@@ -3,7 +3,7 @@ import {
   SafeMultisigTransactionResponse,
   SafeTransaction,
   SafeTransactionDataPartial
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import { SENTINEL_ADDRESS, ZERO_ADDRESS } from './constants'
 
 export function sameString(str1: string, str2: string): boolean {

@@ -1,7 +1,7 @@
 import {
   SafeMultisigTransactionResponse,
   SafeTransactionDataPartial
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import chai from 'chai'
 import chaiAsPromised from 'chai-as-promised'
 import { deployments, waffle } from 'hardhat'

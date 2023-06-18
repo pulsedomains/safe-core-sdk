@@ -3,7 +3,7 @@ import {
   EthAdapter,
   SafeMultisigConfirmationListResponse,
   SafeMultisigTransactionResponse
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import SafeTransactionService from './SafeTransactionService'
 import {
   AllTransactionsListResponse,

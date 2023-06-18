@@ -10,8 +10,8 @@ import {
   SafeVersion,
   TransactionOptions,
   TransactionResult
-} from '@safe-global/safe-core-sdk-types'
-import { SAFE_FEATURES, hasSafeFeature } from '@safe-global/safe-core-sdk-utils'
+} from '@pnsdomains/safe-core-sdk-types'
+import { SAFE_FEATURES, hasSafeFeature } from '@pnsdomains/safe-core-sdk-utils'
 import ContractManager from './managers/contractManager'
 import FallbackHandlerManager from './managers/fallbackHandlerManager'
 import GuardManager from './managers/guardManager'

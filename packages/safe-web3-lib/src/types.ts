@@ -1,4 +1,4 @@
-import { BaseTransactionResult } from '@safe-global/safe-core-sdk-types'
+import { BaseTransactionResult } from '@pnsdomains/safe-core-sdk-types'
 import { PromiEvent, TransactionReceipt } from 'web3-core/types'
 
 export interface Web3TransactionOptions {

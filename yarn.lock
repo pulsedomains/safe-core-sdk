@@ -1676,6 +1676,13 @@
   dependencies:
     esquery "^1.0.1"
 
+"@pnsdomains/safe-deployments@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@pnsdomains/safe-deployments/-/safe-deployments-1.0.0.tgz#ed09423ae583e108ec156e049bbebca2468f5249"
+  integrity sha512-85nGc5bvym5YhWRw7FPmLJzY/b7ixE3DNIFDjtzpyEiZSKvE3MGftuTkW2PFntPj5DMJOYlYsWIuswEBTkNmHg==
+  dependencies:
+    semver "^7.3.7"
+
 "@protobufjs/aspromise@^1.1.1", "@protobufjs/aspromise@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@protobufjs/aspromise/-/aspromise-1.1.2.tgz#9b8b0cc663d669a7d8f6f5d0893a14d348f30fbf"
@@ -1809,13 +1816,6 @@
     hosted-git-info "^2.6.0"
     path-browserify "^1.0.0"
     url "^0.11.0"
-
-"@safe-global/safe-deployments@^1.22.0":
-  version "1.22.0"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.22.0.tgz#4214ac5a9ebcad7cdbf5f641b0728bc0e497286e"
-  integrity sha512-SmbeCRMlcO/EONxbV6nP6pM/60q0NIHVezxx5FMv0dIAkDffdbm25reonKlOk3AJYW1b/c6pZA0RbWDwFSJEkQ==
-  dependencies:
-    semver "^7.3.7"
 
 "@scure/base@~1.1.0":
   version "1.1.1"

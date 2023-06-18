@@ -37,7 +37,7 @@ If the app integrating the SDK is using `Ethers` `v5`, create an instance of the
 
 ```js
 import { ethers } from 'ethers'
-import EthersAdapter from '@safe-global/safe-ethers-lib'
+import EthersAdapter from '@pnsdomains/safe-ethers-lib'
 
 const web3Provider = // ...
 const provider = new ethers.providers.Web3Provider(web3Provider)

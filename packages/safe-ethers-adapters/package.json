@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-ethers-adapters",
+  "name": "@pnsdomains/safe-ethers-adapters",
   "version": "0.1.0-alpha.17",
   "description": "Safe Ethers Adapters",
   "main": "dist/src/index.js",
@@ -66,9 +66,9 @@
     "@ethersproject/properties": "^5.7.0"
   },
   "dependencies": {
-    "@safe-global/safe-core-sdk": "^3.3.3",
-    "@safe-global/safe-core-sdk-types": "^1.9.1",
-    "@safe-global/safe-deployments": "^1.22.0",
+    "@pnsdomains/safe-core-sdk": "^3.3.3",
+    "@pnsdomains/safe-core-sdk-types": "^1.9.1",
+    "@pnsdomains/safe-deployments": "^1.0.0",
     "axios": "^0.27.2"
   },
   "lint-staged": {

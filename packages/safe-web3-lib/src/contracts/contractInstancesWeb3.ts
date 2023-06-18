@@ -1,4 +1,4 @@
-import { SafeVersion } from '@safe-global/safe-core-sdk-types'
+import { SafeVersion } from '@pnsdomains/safe-core-sdk-types'
 import { Gnosis_safe as SafeMasterCopy_V1_0_0 } from '../../typechain/src/web3-v1/v1.0.0/Gnosis_safe'
 import { Proxy_factory as GnosisSafeProxyFactory_V1_0_0 } from '../../typechain/src/web3-v1/v1.0.0/Proxy_factory'
 import { Gnosis_safe as SafeMasterCopy_V1_1_1 } from '../../typechain/src/web3-v1/v1.1.1/Gnosis_safe'

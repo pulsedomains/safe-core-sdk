@@ -5,8 +5,8 @@ import {
   EthAdapterTransaction,
   GetContractProps,
   SafeTransactionEIP712Args
-} from '@safe-global/safe-core-sdk-types'
-import { generateTypedData, validateEip3770Address } from '@safe-global/safe-core-sdk-utils'
+} from '@pnsdomains/safe-core-sdk-types'
+import { generateTypedData, validateEip3770Address } from '@pnsdomains/safe-core-sdk-utils'
 import Web3 from 'web3'
 import { Transaction } from 'web3-core'
 import { ContractOptions } from 'web3-eth-contract'

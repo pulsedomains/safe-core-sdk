@@ -4,7 +4,7 @@ import {
   GnosisSafeProxyFactoryContract,
   SafeVersion,
   TransactionOptions
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import { generateAddress2, keccak256, toBuffer } from 'ethereumjs-util'
 import semverSatisfies from 'semver/functions/satisfies'
 import { SAFE_LAST_VERSION } from '../contracts/config'

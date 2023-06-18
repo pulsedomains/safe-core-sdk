@@ -1,5 +1,5 @@
-import { SafeAccountConfig, SafeDeploymentConfig, SafeFactory } from '@safe-global/safe-core-sdk'
-import EthersAdapter from '@safe-global/safe-ethers-lib'
+import { SafeAccountConfig, SafeDeploymentConfig, SafeFactory } from '@pnsdomains/safe-core-sdk'
+import EthersAdapter from '@pnsdomains/safe-ethers-lib'
 import { ethers } from 'ethers'
 
 // This file can be used to play around with the Safe Core SDK

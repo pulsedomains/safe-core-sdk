@@ -2,7 +2,7 @@ import { Signer } from '@ethersproject/abstract-signer'
 import {
   SafeMultisigConfirmationListResponse,
   SafeMultisigTransactionResponse
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 import {
   MasterCopyResponse,
   OwnerResponse,

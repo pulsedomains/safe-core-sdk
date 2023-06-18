@@ -1,5 +1,5 @@
 import { ContractTransaction } from '@ethersproject/contracts'
-import { BaseTransactionResult } from '@safe-global/safe-core-sdk-types'
+import { BaseTransactionResult } from '@pnsdomains/safe-core-sdk-types'
 
 export interface EthersTransactionOptions {
   from?: string

@@ -2,7 +2,7 @@ import {
   SafeSignature,
   SafeTransaction,
   SafeTransactionData
-} from '@safe-global/safe-core-sdk-types'
+} from '@pnsdomains/safe-core-sdk-types'
 
 class EthSafeTransaction implements SafeTransaction {
   data: SafeTransactionData

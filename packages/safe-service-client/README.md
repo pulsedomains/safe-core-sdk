@@ -48,7 +48,7 @@ Once the instance of `EthersAdapter` or `Web3Adapter` is created, it can be used
 ### Initialize the SafeServiceClient
 
 ```js
-import SafeServiceClient from '@safe-global/safe-service-client'
+import SafeServiceClient from '@pnsdomains/safe-service-client'
 
 const safeService = new SafeServiceClient({
   txServiceUrl: 'https://safe-transaction-mainnet.safe.global',
